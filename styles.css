@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Indie+Flower&family=Quicksand:wght@300&display=swap');
+
+.mainpage, .heading {
+    font-family: 'Amatic SC', cursive;
+    text-align: center;
+}
+
+.heading {
+    font-size: 70px;
+}
+
+.mainpage .content .item {
+    font-size: 30px;
+}
+
+.content {
+    font-size: 20px;
+}
+
+.images {
+    text-align: center;
+}
+
+.images img {
+    width: auto;
+    height: 500px;
+}
